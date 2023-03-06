@@ -1,14 +1,16 @@
 {
-  "pins" : [
-    {
-      "identity" : "myfirstspm",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/hardikhadwani-hurix/MyFirstSPM",
-      "state" : {
-        "revision" : "d8d817d6a956dc8c5480c5b9fb6422b8475a57d8",
-        "version" : "1.2.0"
+  "object": {
+    "pins": [
+      {
+        "package": "HardikSPM",
+        "repositoryURL": "https://github.com/hardikhadwani-hurix/MyFirstSPM",
+        "state": {
+          "branch": null,
+          "revision": "d8d817d6a956dc8c5480c5b9fb6422b8475a57d8",
+          "version": "1.2.0"
+        }
       }
-    }
-  ],
-  "version" : 2
+    ]
+  },
+  "version": 1
 }
