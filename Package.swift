@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        .package(url: "https://github.com/hardikhadwani-hurix/MyFirstSPM", from: "1.2.1"),
+        .package(url: "https://github.com/hardikhadwani-hurix/KitabooReaderSDKSPM", from: "1.0.1"),
     ],
      targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
@@ -23,7 +23,7 @@ let package = Package(
         .target(
             name: "KitabooSDKWithReaderSPM",
             dependencies: [
-                .product(name: "HardikSPM", package: "MyFirstSPM"),
+                .product(name: "KitabooReaderSDKSPM", package: "KitabooReaderSDKSPM"),
             ]),
         .testTarget(
             name: "KitabooSDKWithReaderTests",

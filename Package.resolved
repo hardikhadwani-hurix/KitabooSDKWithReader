@@ -2,12 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "HardikSPM",
-        "repositoryURL": "https://github.com/hardikhadwani-hurix/MyFirstSPM",
+        "package": "KitabooReaderSDKSPM",
+        "repositoryURL": "https://github.com/hardikhadwani-hurix/KitabooReaderSDKSPM",
         "state": {
           "branch": null,
-          "revision": "15229b86387661d076824a6bfe890a746276b729",
-          "version": "1.2.1"
+          "revision": "fde167731e74efcccb1e95da8d29cf2d1be0b730",
+          "version": "1.0.1"
         }
       }
     ]
