@@ -1,0 +1,834 @@
+{
+    "ReaderScreenBookmarkTF":
+    {
+        "hint":"Skriv inn bokmerketeksten din her",
+        "label":"Bookmark",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderAddBookmarkButton":
+    {
+        "hint":"Trykk på denne knappen for å legge til bokmerke",
+        "label":"Legg til bokmerke",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderUpdateBookmarkButton":
+    {
+        "hint":"Trykk på denne knappen for å oppdatere bokmerke",
+        "label":"Oppdater bokmerke",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpColor": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpTextButton":
+    {
+        "hint":"Trykk på denne knappen for å legge til kontekstuelt notat",
+        "label":"Kontekstuell merknad",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpSearchButton":
+    {
+        "hint":"Trykk på denne knappen for å søke i tekst",
+        "label":"Søk",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpDeleteButton":
+    {
+        "hint":"Trykk på denne knappen for å slette høydepunktet",
+        "label":"Slett",
+        "isAccessiblityEnabled":true
+    },
+    "BackButton":
+    {
+        "hint":"",
+        "label":"Tilbake",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesDeleteButton":
+    {
+        "hint":"",
+        "label":"Slett notat",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesShareButton":
+    {
+        "hint":"",
+        "label":"Valgt tekst",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesSelectedTextTextView":
+    {
+        "hint":"",
+        "label":"Valgt tekst",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesNoteTextView":
+    {
+        "hint":"",
+        "label":"Merk Tekst",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesPostButton":
+    {
+        "hint":"",
+        "label":"Lagre notat",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesCommentPostButton":
+    {
+        "hint":"",
+        "label":"Lag kommentar",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesMoreButton":
+    {
+        "hint":"",
+        "label":"Mer",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsClassButton":
+    {
+        "hint":"",
+        "label":"Klassenavn",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsDropDownButton":
+    {
+        "hint":"Trykk på denne knappen for å velge klassen",
+        "label":"Fall ned",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsShareAllButton":
+    {
+        "hint":"",
+        "label":"Del alle %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsReceiveAllButton":
+    {
+        "hint":"",
+        "label":"Motta alt %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsShareButton":
+    {
+        "hint":"",
+        "label":"Del notat %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsReceiveButton":
+    {
+        "hint":"",
+        "label":"Motta notat %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsCancelButton":
+    {
+        "hint":"",
+        "label":"Avbryt",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsDoneButton":
+    {
+        "hint":"",
+        "label":"Gjort",
+        "isAccessiblityEnabled":true
+    },
+    "BackToBookShelfButton": {
+        "hint":"Dobbelttrykk for å gå tilbake til bokhyllen",
+        "label":"Tilbake til bokhylle",
+        "isAccessiblityEnabled":true
+    },
+    "UserProfileButton": {
+        "hint":"Dobbelttrykk for å navigere i brukerprofilen",
+        "label":"Brukerprofil",
+        "isAccessiblityEnabled":true
+    },
+    "TOCButton": {
+        "hint":"Dobbelttrykk for alternativet for innholdsfortegnelse",
+        "label":"Innholdsfortegnelse",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataButton": {
+        "hint":"Dobbelttrykk for datalternativet mitt",
+        "label":"Mine data",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolButton": {
+        "hint":"Dobbelttrykk for å åpne pennverktøyet",
+        "label":"Pennverktøy",
+        "isAccessiblityEnabled":true
+    },
+    "StickyNoteButton": {
+        "hint":"Dobbelttrykk for å legge til huskelapper",
+        "label":"Post-it lapp",
+        "isAccessiblityEnabled":true
+    },
+    "MoreOptionButton": {
+        "hint":"Dobbelttrykk for å åpne flere alternativer",
+        "label":"Mer alternativ",
+        "isAccessiblityEnabled":true
+    },
+    "SubmitButton": {
+        "hint":"Dobbelttrykk for å sende",
+        "label":"Sende inn",
+        "isAccessiblityEnabled":true
+    },
+    "StudentSubmitButton": {
+        "hint":"Dobbelttrykk for studentinnsending",
+        "label":"Studentinnlevering",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherReviewButton": {
+        "hint":"Dobbelttrykk for å åpne læreranmeldelse",
+        "label":"Teacher Review",
+        "isAccessiblityEnabled":true
+    },
+    "AddTextButton": {
+        "hint":"Dobbelttrykk for å legge til tekst",
+        "label":"Tekstnotering",
+        "isAccessiblityEnabled":true
+    },
+    "ProtractorButton": {
+        "hint":"Dobbelttrykk for å åpne vinkelmåler",
+        "label":"Vinkelmåler",
+        "isAccessiblityEnabled":true
+    },
+    "ClearButton": {
+        "hint":"Dobbeltklikk for klarering",
+        "label":"Slett alt",
+        "isAccessiblityEnabled":true
+    },
+    "SearchButton": {
+        "hint":"Dobbelttrykk for å åpne søk",
+        "label":"Søk",
+        "isAccessiblityEnabled":true
+    },
+    "FontSettingButton": {
+        "hint":"Dobbeltklikk for å åpne skriftinnstillinger",
+        "label":"Skriftinnstilling",
+        "isAccessiblityEnabled":true
+    },
+    "SoundButton": {
+        "hint":"Double tap to open Audio Sync",
+        "label":"Sound",
+        "isAccessiblityEnabled":true
+    },
+    "ThumbnailButton": {
+        "hint":"Dobbelttrykk for å åpne miniatyrbilder",
+        "label":"Miniatyrbilde",
+        "isAccessiblityEnabled":true
+    },
+    "PageNavigationButton": {
+        "hint":"Dobbelttrykk for å åpne navigasjonsalternativer for sider",
+        "label":"Sidenavigasjon",
+        "isAccessiblityEnabled":true
+    },
+    "DragSelectionButton": {
+        "hint":"Dobbelttrykk for å aktivere dravalgsmodus",
+        "label":"Dra markeringsboksen",
+        "isAccessiblityEnabled":true
+    },
+    "GenerateReportButton": {
+        "hint":"Dobbelttrykk for å åpne generere rapport -popup",
+        "label":"Generate Report",
+        "isAccessiblityEnabled":true
+    },
+    "NextStudentButton": {
+        "hint":"Dobbelttrykk for å navigere til neste tilgjengelige elev",
+        "label":"Neste student",
+        "isAccessiblityEnabled":true
+    },
+    "PreviousStudentButton": {
+        "hint":"Dobbelttrykk for å navigere til forrige tilgjengelige elev",
+        "label":"Forrige student",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolPenButton": {
+        "hint":"Dobbelttrykk for å åpne alternativet for pennefarge",
+        "label":"PenTool Pen",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolCloseButton": {
+        "hint":"Dobbelttrykk for å lukke pentool",
+        "label":"PenTool Close",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolSelectColorButton": {
+        "hint":"Dobbeltklikk for å velge farge",
+        "label":"%@ Pennefarge",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolSelectThicknessButton": {
+        "hint":"Dobbelttrykk for å velge tykkelse",
+        "label":"%@ Pennetykkelse",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolUndoButton": {
+        "hint":"",
+        "label":"%@ Angre",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolEraserButton": {
+        "hint":"",
+        "label":"%@ Viskelær",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolDeleteButton": {
+        "hint":"",
+        "label":"%@ Slett",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolColorButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolThicknessSlider": {
+        "hint":"",
+        "label":"Penn tykkhet",
+        "isAccessiblityEnabled":true
+    },
+    "SearchTF": {
+        "hint":"Skriv inn søketekst",
+        "label":"Skriv inn søketekst",
+        "isAccessiblityEnabled":true
+    },
+    "SearchCancelButton": {
+        "hint":"Dobbelttrykk for å avbryte søket",
+        "label":"Avbryt søk",
+        "isAccessiblityEnabled":true
+    },
+    "OpenSearchResultButton": {
+        "hint":"Dobbelttrykk for å åpne søkeresultat",
+        "label":"Åpne søkeresultater",
+        "isAccessiblityEnabled":true
+    },
+    "CloseSearchResultButton": {
+        "hint":"Dobbelttrykk for å lukke søkeresultat",
+        "label":"Lukk søkeresultater",
+        "isAccessiblityEnabled":true
+    },
+    "NextSearchButton": {
+        "hint":"",
+        "label":"Neste",
+        "isAccessiblityEnabled":true
+    },
+    "PreviousSearchButton": {
+        "hint":"",
+        "label":"Tidligere",
+        "isAccessiblityEnabled":true
+    },
+    "SearchIcon": {
+        "hint":"",
+        "label":"Søkeikon",
+        "isAccessiblityEnabled":true
+    },
+    "TOCContentButton": {
+        "hint":"",
+        "label":"Innhold",
+        "isAccessiblityEnabled":true
+    },
+    "TOCBookMarkButton": {
+        "hint":"",
+        "label":"BookMarks",
+        "isAccessiblityEnabled":true
+    },
+    "TOCResourcesButton": {
+        "hint":"",
+        "label":"Ressurser",
+        "isAccessiblityEnabled":true
+    },
+    "TOCStandardButton": {
+        "hint":"",
+        "label":"Standarder",
+        "isAccessiblityEnabled":true
+    },
+    "TOCELPSButton": {
+        "hint":"",
+        "label":"ELPS",
+        "isAccessiblityEnabled":true
+    },
+    "TOCTEKSButton": {
+        "hint":"",
+        "label":"TEKS",
+        "isAccessiblityEnabled":true
+    },
+    "TOCInternalResourcesButton": {
+        "hint":"",
+        "label":"Interne ressurser",
+        "isAccessiblityEnabled":true
+    },
+    "TOCExternalResourcesButton": {
+        "hint":"",
+        "label":"Eksterne ressurser",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderMarkupButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderNoteOnPage": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightsButton": {
+        "hint":"",
+        "label":"HighLights",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightsCount": {
+        "hint":"",
+        "label":"%@ HighLights",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotesButton": {
+        "hint":"",
+        "label":"Merknader",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotesCount": {
+        "hint":"",
+        "label":"%@ Merknader",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterButton": {
+        "hint":"",
+        "label":"Filtre",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataShareSettingButton": {
+        "hint":"",
+        "label":"Del innstillinger",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotificationButton": {
+        "hint":"",
+        "label":"Varsler",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataSelectedFilterDropDownButton": {
+        "hint":"",
+        "label":"Rullegardin åpen",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterDropDownButton": {
+        "hint":"",
+        "label":"Rullegardin Lukk",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterHighLightButton": {
+        "hint":"",
+        "label":"HighLight Color %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterNotesButton": {
+        "hint":"",
+        "label":"Merk Farge %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterContextualNotesButton": {
+        "hint":"",
+        "label":"Kontekstuell notatfarge %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterShareButton": {
+        "hint":"",
+        "label":"Delt",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterOtherTextButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsFontName": {
+        "hint":"",
+        "label":"Valg av skriftnavn",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsFontSizeSlider": {
+        "hint":"Dra glidebryteren igjen for å redusere skriftstørrelsen eller høyre for å øke skriftstørrelsen",
+        "label":"Glidebryter for skriftstørrelse",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsAlignment": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsLineSpacing": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsMargin": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsScrollMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataStickyNoteIcon": {
+        "hint":"",
+        "label":"Klistrelapper-ikon",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataContextualNoteIcon": {
+        "hint":"",
+        "label":"Kontekstuelt notatikon",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightIcon": {
+        "hint":"",
+        "label":"Fremhev ikon",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailCollectionCellChapterTitle": {
+        "hint":"",
+        "label":"Kapittel Tittel %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailCollectionCellPage": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailPrevNextPageButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailSearchTF": {
+        "hint":"Skriv inn sidenummer for å søke",
+        "label":"Søk side",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailTotalPage": {
+        "hint":"",
+        "label":"ut av %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailSlider": {
+        "hint":"",
+        "label":"Thumbnail Slider",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSleepButton": {
+        "hint":"Dobbelttrykk for å angi hviletid",
+        "label":"Sove",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNextButton": {
+        "hint":"",
+        "label":"Neste",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPreviousButton": {
+        "hint":"",
+        "label":"Tidligere",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPauseButton": {
+        "hint":"",
+        "label":"Pause",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPlayButton": {
+        "hint":"",
+        "label":"Spille",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkButton": {
+        "hint":"Dobbelttrykk for å bokmerke siden",
+        "label":"Bokmerke",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNarrationSpeedButton": {
+        "hint":"Dobbelttrykk for å velge",
+        "label":"Hastighetsregulator",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNextChapterButton": {
+        "hint":"",
+        "label":"Gå til neste kapittel",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPreviousChapterButton": {
+        "hint":"",
+        "label":"Gå til forrige kapittel",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBFullScreenButton": {
+        "hint":"",
+        "label":"Full skjerm",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBForwardButton": {
+        "hint":"",
+        "label":"15 sekunder fremover",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBRewindButton": {
+        "hint":"",
+        "label":"15 sekunder bakover",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSubtitleEnabledButton": {
+        "hint":"dobbelttrykk for å deaktivere",
+        "label":"cc valg",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSubtitleDisabledButton": {
+        "hint":"dobbelttrykk for å aktivere",
+        "label":"cc valg",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMuteEnabledButton": {
+        "hint":"dobbelttrykk for å dempe",
+        "label":"Stum",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMuteDisabledButton": {
+        "hint":"dobbelttrykk for å høre",
+        "label":"Stum",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMoreOptionButton": {
+        "hint":"",
+        "label":"Mer alternativ",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterTabButton": {
+        "hint":"Dobbelttrykk for å gå til kapittelisten",
+        "label":"Kapittel Tab",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkTabButton": {
+        "hint":"Dobbelttrykk for å gå til bokmerkelisten",
+        "label":"Bokmerke -fanen",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBTranScriptTabButton": {
+        "hint":"Dobbelttrykk for å gå til transkripsjonslisten",
+        "label":"Fanen Transkripsjon",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkDeleteButton": {
+        "hint":"",
+        "label":"Slett",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterDDButton": {
+        "hint":"",
+        "label":"Fall ned",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupCloseButton": {
+        "hint":"",
+        "label":"Lukk",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioPlayPauseButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioTimeRemainingLabel": {
+        "hint":"",
+        "label":"Tid igjen, %@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioCurrentTimeLabel": {
+        "hint":"",
+        "label":"Tid forløpt, %@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioDragButton": {
+        "hint":"",
+        "label":"Dra",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupHTMLZoomInButton": {
+        "hint":"",
+        "label":"Zoom inn",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupHTMLZoomOutButton": {
+        "hint":"",
+        "label":"Zoome ut",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupDocumentPrintButton": {
+        "hint":"",
+        "label":"Skrive ut",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedDecreaseButton": {
+        "hint":"",
+        "label":"Hastighetsnedgang",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedIncreaseButton": {
+        "hint":"",
+        "label":"Hastighet øker",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedRateLabel": {
+        "hint":"",
+        "label":"Hastighetsrate er %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFIBTF": {
+        "hint":"Skriv inn FIB-tekst her",
+        "label":"FIB",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupImageSlideShow": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "CloseButton": {
+        "hint":"",
+        "label":"Lukk ClassList",
+        "isAccessiblityEnabled":true
+    },
+    "StudentListBackButton": {
+        "hint":"Dobbelttrykk for å lukke elevlisten",
+        "label":"Tilbake",
+        "isAccessiblityEnabled":true
+    },
+    "ChangeClassButton": {
+        "hint":"",
+        "label":"Endre klasse",
+        "isAccessiblityEnabled":true
+    },
+    "AnnotationSwitchOnStatus": {
+        "hint":"",
+        "label":"Merknad slått på",
+        "isAccessiblityEnabled":true
+    },
+    "AnnotationSwitchOffStatus": {
+        "hint":"",
+        "label":"Kommentar slått av",
+        "isAccessiblityEnabled":true
+    },
+    "CorrectReviewButton": {
+        "hint":"",
+        "label":"Riktig anmeldelse",
+        "isAccessiblityEnabled":true
+    },
+    "InCorrectReviewButton": {
+        "hint":"",
+        "label":"Feil gjennomgang",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherCommentButton": {
+        "hint":"Dobbelttrykk for å legge til kommentar",
+        "label":"Lærerkommentar",
+        "isAccessiblityEnabled":true
+    },
+    "InstantFeedbackButton": {
+        "hint":"Dobbelttrykk for å vise riktig svar",
+        "label":"Umiddelbar tilbakemelding",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherCommentNote": {
+        "hint":"",
+        "label":"Lærerkommentar Merknad",
+        "isAccessiblityEnabled":true
+    },
+    "GenerateReportBack": {
+        "hint":"",
+        "label":"Generer rapport tilbake",
+        "isAccessiblityEnabled":true
+    },
+    "TOCCellDropDownButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReadAloudButton": {
+        "hint":"",
+        "label":"Lese høyt",
+        "isAccessiblityEnabled":true
+    },
+    "ReadAloudMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataDragUpButton": {
+        "hint":"",
+        "label":"Dra opp",
+        "isAccessiblityEnabled":true
+    },
+    "DismissReaderFontSetting": {
+        "hint":"",
+        "label":"Avvis popup",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAlignment": {
+        "hint":"",
+        "label":"Justering",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationTextColor": {
+        "hint":"",
+        "label":"Tekstfarge",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAddText": {
+        "hint":"",
+        "label":"Legg til tekst",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationDelete": {
+        "hint":"",
+        "label":"Slett",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationSave": {
+        "hint":"",
+        "label":"Lagre",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationKeyboard": {
+        "hint":"",
+        "label":"Tastatur",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAlignmentAction": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationPalleteColor": {
+        "hint":"",
+        "label":"Farge %@",
+        "isAccessiblityEnabled":true
+    },
+    "Immersive_Reader": {
+        "hint":"Leserknapp for fordypning",
+        "label":"Leserknapp for fordypning",
+        "isAccessiblityEnabled":true
+    },
+}

@@ -1,0 +1,555 @@
+{
+"AboutUs":{
+		"background": "#000000",
+		"background-image": "url(images/about-us-vector-bg_coloured.svg)",
+		"gradient_color":{
+			"color": "#000000",
+			"opacity": [".80","0",".80"]
+			},
+		"svg": {
+			"color": "#ffffff",
+			"opacity": ".05",
+			"background_HTML": "rgba(255,255,255,0.05)"
+			},
+		"close_icon_color": "#FFD900",
+		"text_color": "#ffffff",
+		"description_text_color": "#ffffff",
+		"icons_color": "#ffffff"
+		},
+	"Reader": {
+	"clientName": "BVB_Dortmund",
+		"DayMode": {
+			"main": {
+				"canvas_background": "#b9b9b6",
+				"navigation_arrows": "#000000",
+				"toolbar": {
+					"top":{
+						"background": "#000000",
+						"icons-color": "#FFD900",
+						"shadow": "rgba(142,142,142,0.5)",
+						"selected_icon-color": "#000000",
+						"selected_icon_bg": "#FFD900",
+						"Title_text_color": "#FFD900",
+						"navigation_arrow_color": "#FFD900",
+						"profile_border": "#FFD900"
+					},
+					"side_bottom":{
+						"background": "#000000",
+						"icons-color": "#FFD900",
+						"shadow": "rgba(142,142,142,0.5)",
+						"selected_icon-color": "#000000",
+						"selected_icon_bg": "#FFD900"
+					}
+				}
+			},
+			"tableofcontents": {
+				"overlay_panel": {
+					"background": "#000000",
+					"opacity": "0.45",
+					"background_HTML": "rgba(0,0,0,0.45)"
+					},
+				"popup_background": "#000000",
+				"popup_border": "#FFD900",
+				"tab_bg": "#000000",
+				"tab_border": "#FFD900",
+				"tab_border_wrapper":"#e6e6e6",
+				"tab_text-color": "#ffffff",
+				"selected_tab_border": "#FFD900",
+				"selected_text-color": "#FFD900",
+				"chlabel_fontweight":"600 !important",
+				"selected_toc": {
+					"background": "#3d3d3d",
+					"divider": "#ffffff",
+					"title-color": "#FFD900",
+					"description-color": "#ffffff",
+					"arrow_color": "#FFD900",
+					"icon_color": "#FFD900",
+					"side_tab_background": "#FFD900",
+					"level_background":"#ffffff"
+					},
+				"title-color": "#ffffff",
+				"description-color": "#ffffff",
+				"pageno-color": "#ffffff",
+				"icons-color": "#FFD900",
+				"more_icon-color": "#ffffff",
+				"divider-color": "#919191",
+				"close_slider": {
+					"background": "#FFD900",
+					"icon_color": "#000000"
+					}
+			},
+			"MyData": {
+				"overlay_panel": {
+					"background": "#000000",
+					"opacity": "0.45",
+					"background_HTML": "rgba(0,0,0,0.45)"
+				},
+				"popup_background": "#000000",
+				"popup_border": "#FFD900",
+				"tab_bg": "#000000",
+				"tab_border": "#FFD900",
+				"tab_text-color": "#ffffff",
+				"selected_tab_border": "#FFD900",
+				"selected_text-color": "#FFD900",
+				"selected_button": {
+					"background": "#FFD900",
+					"text-color": "#000000"
+					},
+				"de-selected_button": {
+					"background": "#595959",
+					"text-color": "#ffffff"
+					},
+				"icon_color": "#FFD900",
+				"disabled_icon": {
+					"icon_color": "#FFD900",
+					"opacity": "0.70",
+					"background_HTML": "rgba(255,217,0,0.70)"
+				},
+				"text-color": "#FFD900",
+				"metadata-color": "#ffffff",
+				"contextualtext-color": "#ffffff",
+				"description-color": "#ffffff",
+				"sub_button": {
+					"text-icon_color": "#ffffff",
+					"disabled_text-icon_color": "#3d3d3d"
+				},
+				"filter_popup": {
+					"background": "#000000",
+					"border_color": "#FFD900",
+					"all_box_border-color": "#FFD900",
+					"box_border-color": "#ffffff",
+					"check_color": "#FFD900",
+					"text-color": "#ffffff",
+					"arrow_color": "#FFD900",
+					"action_text-color": "#FFD900"
+				},
+				"settings": {
+					"background": "#000000",
+					"title-color": "#FFD900",
+					"icon_color": "#FFD900",
+					"box_border-color": "#ffffff",
+					"section_title-color": "#FFD900",
+					"text-color": "#ffffff",
+					"check_color": "#FFD900",
+					"action_button": {
+						"main": {
+							"background": "#FFD900",
+							"text-color": "#000000"
+							},
+						"cancel": {
+							"border_color": "#3d3d3d",
+							"text-color": "#ffffff"
+							}
+					}
+				},
+				"notification_circle_color": "#E21D1D"
+				},
+			"Bookmark": {
+				"icon_color": "#818383",
+				"selected_icon-color":"#FFD900",
+				"popup_background": "#000000",
+				"popup_border": "#FFD900",
+				"input_panel-bg": "#3d3d3d",
+				"hint_text-color": "#707070",
+				"text-color": "#ffffff",
+				"button_background": "#FFD900",
+				"button_text-color": "#000000",
+				"cross_icon-color": "#FFD900"
+			},
+			"Search": {
+				"popup_background": "#000000",
+				"input_panel-bg": "#3d3d3d",
+				"popup_border": "#FFD900",
+				"main_icon-color": "#FFD900",
+				"hint_text-color": "#707070",
+				"title-color": "#ffffff",
+				"tab_border": "#FFD900",
+				"selected_text-color": "#FFD900",
+				"selected_bg-color":"#FFFF00",
+				"seperation_background": "#3d3d3d",
+				"cross_icon-color": "#FFD900",
+				"description-color": "#ffffff",
+				"subtext-color": "#ffffff",
+				"selection_text_color_bg": "#FBFB05",
+				"selected_text_color_bg":"#C6B963"
+			},
+			"Pentool": {
+				"toolbar": {
+					"background": "#000000",
+					"icons-color": "#FFD900",
+					"disabled_icon": {
+						"icon_color": "#FFD900",
+						"opacity": "0.40",
+						"background_HTML": "rgba(255,217,0,0.40)"
+						},
+					"selected_icon_background": "#FFD900",
+					"selected_icon_color": "#000000"
+				},
+				"Pen": {
+					"popup_background": "#000000",
+					"popup_border": "#FFD900",
+					"shadow": "rgba(142,142,142,0.5)",
+					"selected_border_color": "#FFD900"
+				},
+				"pen-color": ["#000000", "#ad1e20", "#8100d6", "#106605", "#0859a1"],
+				"pen-color_HTML": {
+					"Black": "#000000",
+					"Red": "#ad1e20",
+					"Purple": "#8100d6",
+					"Green": "#106605",
+					"Blue": "#0859a1"
+				},
+				"Thickness": {
+					"popup_background": "#000000",
+					"popup_border": "#FFD900",
+					"shadow": "rgba(142,142,142,0.5)",
+					"slider-color": "#8C8C8C",
+					"slider-filled-color": "#FFD900"
+				}
+			},
+			"Thumbnail_Slider": {
+				"popup_background": "#000000",
+				"slider-color": "#8C8C8C",
+				"chapter_icon_color": "#8C8C8C",
+				"slider-filled-color": "#FFD900",
+				"default_thumbnail_color": "#919191",
+				"selected_thumbnail_color": "#FFD900",
+				"thumbnail_text-color": "#ffffff",
+				"selected_title_color": "#FFD900",
+				"title-color": "#ffffff",
+				"icon_color": "#FFD900",
+				"text-color": "#FFD900",
+				"page-submitted-border-color": "#106605",
+				"page-not-submitted-border-color": "#ad1e20"
+			},
+			"audioBar": {
+				"background-color":"#000000",
+				"audio-drag-icon":"#ffffff",
+				"audio-drag-background-color":"#FFD900",
+				"play-pause-icon":"#FFD900",
+				"mute-icon":"#FFD900",
+				"current-time":"#ffffff",
+			"closeAudio":"#FFD900"
+			},
+			"Note": {
+				"popup_background": "#000000",
+				"popup_border": "#FFD900",
+				"title-color": "#ffffff",
+				"back_icon-color": "#FFD900",
+				"selected_icon_border": "#FFD900",
+				"contextualtext-color": "#6b420b",
+				"hint_text-color": "#ffffff",
+				"description-color": "#ffffff",
+				"action_button_color": "#FFD900",
+				"action_button_color_disabled": {
+					"background": "#FFD900",
+					"opacity": "0.70",
+					"background_HTML": "rgba(255,217,0,0.7)"
+					},
+				"metadata-color": "#ffffff"
+			},	
+			"Share": {	
+				"share_popup_background": "#000000",
+				"icon_color": "#FFD900",
+				"share_settings": {
+					"section_title-color": "#FFD900",
+					"box_border-color": "#ffffff",
+					"all_box_border-color": "#FFD900",
+					"check_color": "#FFD900",
+					"bottom_background": "#3d3d3d",
+					"text-color": "#ffffff",
+					"main_action_color": "#FFD900"
+				}
+			},
+			"Comments": {
+				"back_icon-color": "#FFD900",
+				"tab_text-color": "#ffffff",
+				"divider-color": "#707070",
+				"other_message": {
+					"background": "#3d3d3d",
+					"border_color": "#C8C8C8",
+					"name_color": "#ffffff",
+					"description-color": "#ffffff",
+					"time_text_color": "#ffffff"
+				},
+				"my_message": {
+					"background": "#E5F9FE",
+					"border_color": "#C8C8C8",
+					"name_color": "#000000",
+					"description-color": "#333333",
+					"time_text_color": "#545454"
+				},
+				"bottom_panel": {
+					"background": "#3d3d3d",
+					"border_color": "#FFD900",
+					"hint_text-color": "#707070",
+					"text-color": "#ffffff",
+					"icon_color_disabled": "#858585",
+					"icon_color": "#FFD900"
+				}
+			},
+			"zoom": {
+				"popup_background": "#000000",
+				"slider-color": "#8c8c8c",
+				"slider-filled-color": "#FFD900",
+				"icon_color": "#FFD900"
+			},
+			"FontSettings": {
+				"overlay_panel": {
+					"background": "#000000",
+					"opacity": "0.45",
+					"background_HTML": "rgba(0,0,0,0.45)"
+				},
+				"popup_background": "#000000",
+				"popup_border": "#FFD900",
+				"tab_border": "#FFD900",
+				"tab_text-color": "#ffffff",
+				"selected_tab_border": "#FFD900",
+				"selected_text-color": "#FFD900",
+				"reset-color": "#FFD900",
+				"Font": {
+					"text-color": "#ffffff",
+					"divider-color": "#707070",
+					"pointer_bg": "#FFD900",
+					"icon_color": "#FFD900",
+					"box_border-color": "#ffffff",
+					"selected_icon-bg": "#000000",
+					"selected_icon-border": "#FFD900",
+					"dropdown_bg": "#3d3d3d",
+					"dropdown_text-color": "#ffffff",
+					"more_icon-color": "#FFD900"
+				},
+				"Other": {
+					"text-color": "#ffffff",
+					"icon_color": "#ffffff",
+					"selected_icon-color": "#FFD900",
+					"Brightness": {
+						"slider-color": "#999999",
+						"slider-selected-color": "#FFD900",
+						"icon-faded": "#858585",
+						"icon-bright": "#545454"	
+					},
+					"Mode": {
+					"selected_tab-border": "#FFD900",
+					"Day": {
+						"tab_bg": "#ffffff",
+						"text-color": "#000000"
+					},
+					"Night": {
+						"tab_bg": "#000000",
+						"text-color": "#ffffff"
+					},	
+					"Sepia": {
+						"tab_bg": "#EEE9D8",
+						"text-color": "#804715"
+					}
+					},
+					"ScrollView": {
+						"tab_bg": "#C5C5C5",
+						"text-color": "#868686",
+						"selected_Tab_bg": "#FFD900",
+						"selected_text-color": "#ffffff"
+					}
+				}
+			},
+			"Teacher_Settings": {
+				"popup_background": "#000000",
+				"popup_border": "#FFD900",
+				"title-color": "#ffffff",
+				"main_icon-color": "#FFD900",
+				"text-color": "#ffffff",
+				"selected_icon-color": "#000000",
+				"selected_icon_bg": "#FFD900",
+				"pen1-color": "#e60000",
+				"pen2-color": "#25850a",
+				"box_border-color": "#ffffff",
+				"check_color": "#FFD900"
+			},
+			"Teacher_studentlist": {
+				"popup_background": "#000000",
+				"popup_border": "#FFD900",
+				"shadow": "rgba(142,142,142,0.5)",
+				"title-color": "#FFD900",
+				"hint_text-color": "#595959",
+				"tab_border": "#FFD900",
+				"tab_selected_bar": "#FFD900",
+				"tab_text-color": "#ffffff",
+				"name_color": "#ffffff",
+				"data_added_color": "#FFD900",
+				"nodata_added_color": "#707070",
+				"refresh": {
+					"box_border-color": "#FFD900",
+					"button_text-color": "#FFD900"
+					},
+				"selected_color": "#FFD900"
+			},
+			"Highlight": {
+				"popup": {
+					"background": "#000000",
+					"border": "#FFD900"
+					},
+				"icon_color": "#FFD900",
+				"selected_border_color": "#FFD900",
+				"highlightColor":["#D17D00","#FC5454","#C061FF","#6F9C21","#009CC7"],
+				"highlightColor_HTML": {
+					"Orange": "#D17D00",
+					"Pink": "#FC5454",
+					"Purple": "#C061FF",
+					"Green": "#6F9C21",
+					"Blue": "#009CC7"
+				}
+			},
+			"Highlight_on_screen": {
+				"highlightColor":["#ffc000","#fc8f6c","#ca7aff","#a5d94c","#38d1db"],
+				"highlightColor_HTML": {
+					"Yellow": "#ffc000",
+					"Red": "#fc8f6c",
+					"Purple": "#ca7aff",
+					"Green": "#a5d94c",
+					"Blue": "#38d1db"
+				}
+			},
+			"Profile": {
+				"profile_border": "#FFD900",
+				"popup_background": "#000000",
+				"text-color": "#ffffff",
+				"action_text-color": "#FFD900",
+				"signout": {
+					"background": "#FFD900",
+					"icons_color": "#000000",
+					"text_color": "#000000"
+				},
+				"link_color_selected": "#FFD900",
+				"text_color": "#ffffff"
+			}
+		}
+	},
+	"Reflowable_reader": {
+		"DayMode": {
+		"canvas_background": "#000000",
+		"default_text-color": "#FFD900"
+		},
+		"SepiaMode": {
+		"canvas_background": "#fff2d0",
+		"default_text-color": "#8b5220"
+		},
+		"NightMode": {
+		"canvas_background": "#333333",
+		"default_text-color": "#ffffff"
+		}
+	},
+	"Text_Annotation": {
+		"background": "#000000",
+		"line_color": "#FFD900",
+		"icons-color": "#FFD900",
+		"disabled_icon": {
+					"icon_color": "#FFD900",
+					"opacity": "0.70",
+					"background_HTML": "rgba(255,217,0,0.70)"
+				},
+		"selected_icon-bg": "#FFD900",
+		"selected_icon-color": "#000000",
+			"align_popup": {
+				"background": "#000000",
+				"icon_color": "#FFD900",
+				"selected_border_color": "#FFD900"
+				},
+			"color_popup": {
+				"background": "#000000",
+				"selected_border_color": "#FFD900",
+				"color1": {
+					"background": "#ffffff",
+					"text-color": "#000000"
+					},
+				"color2": {
+					"background": "#B1DCF9",
+					"text-color": "#000000"
+					},
+				"color3": {
+					"background": "#D6C8FD",
+					"text-color": "#000000"
+					},	
+				"color4": {
+					"background": "#FBCCA2",
+					"text-color": "#000000"
+					},
+				"color5": {
+					"background": "#F6ABA1",
+					"text-color": "#000000"
+					},
+				"color6": {
+					"background": "#000000",
+					"text-color": "#ffffff"
+					},
+				"color7": {
+					"background": "#055992",
+					"text-color": "#ffffff"
+					},	
+				"color8": {
+					"background": "#5A4893",
+					"text-color": "#ffffff"
+					},
+				"color9": {
+					"background": "#7A4406",
+					"text-color": "#ffffff"
+					},	
+				"color10": {
+					"background": "#AA1D13",
+					"text-color": "#ffffff"
+					}
+				}			
+		},
+	"Markup_Glossary": {
+		"link_line_color": "#0645AD",
+		"popup_background": "#000000",
+		"icon_border_color": "#FFD900",
+		"icon_color": "#FFD900",
+		"title-color": "#FFD900",
+		"language_text_color": "#ffffff",
+		"description_text_color": "#ffffff",
+		"synonym_text_color": "#ffffff"
+		},
+	"Image_Markup": {
+            "top_bar_background": "#000000"
+        },
+		"Manage_Device_Status": {
+            "overlay_panel": {
+                "background": "#000000",
+                "opacity": "0.65",
+                "background_HTML": "rgba(0,0,0,0.65)"
+            },
+            "background_top": "#000000",
+            "background_bottom": "#ffffff",
+            "popup_border": "#FFD900",
+            "header_text_color": "#FFD900",
+            "title_text_color": "#ffffff",
+            "description_text_color": "#ffffff",
+            "active_icon_color": "#FFD900",
+            "Divider_color": "#707070",
+            "arrow_color": "#FFD900",
+            "hint_text_color_selected": "#FFD900",
+            "checkbox_color": "#ffffff",
+            "checkbox_Selected_color": "#FFD900",
+            "icon_color": "FFD900",
+            "Action_button_text_color": "#ffffff",
+            "Action_button": {
+                "background": "#FFD900",
+                "text_color": "#000000"
+            },
+            "Disable_action_button": {
+                            "background": "#3d3d3d",
+                            "text_color": "#ffffff"
+			}	
+	},
+	"Help": {
+		"overlay_panel": {
+			"background": "#000000",
+			"opacity": "0.65",
+			"background_HTML": "rgba(0,0,0,0.65)"
+			},
+		"text_color": "#ffffff",
+		"description_text_color": "#65E0ff",
+		"line_color": "#ffffff",
+		"pointer_color": "#65E0ff"
+	}
+}

@@ -1,0 +1,834 @@
+{
+    "ReaderScreenBookmarkTF":
+    {
+        "hint":"Ingrese su texto de marcador aquí",
+        "label":"Marcador",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderAddBookmarkButton":
+    {
+        "hint":"Toque este botón para agregar marcador",
+        "label":"Añadir marcador",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderUpdateBookmarkButton":
+    {
+        "hint":"Toque este botón para actualizar Bookmark",
+        "label":"Actualización de marcador",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpColor": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpTextButton":
+    {
+        "hint":"Toque este botón para agregar una nota contextual",
+        "label":"Nota contextual",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpSearchButton":
+    {
+        "hint":"Toque este botón para buscar cualquier texto",
+        "label":"Buscar",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpDeleteButton":
+    {
+        "hint":"Toque este botón para eliminar el punto culminante",
+        "label":"Borrar",
+        "isAccessiblityEnabled":true
+    },
+    "BackButton":
+    {
+        "hint":"",
+        "label":"Atrás",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesDeleteButton":
+    {
+        "hint":"",
+        "label":"Borrar nota",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesShareButton":
+    {
+        "hint":"",
+        "label":"Nota de participación",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesSelectedTextTextView":
+    {
+        "hint":"",
+        "label":"Texto seleccionado",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesNoteTextView":
+    {
+        "hint":"",
+        "label":"Nota de texto",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesPostButton":
+    {
+        "hint":"",
+        "label":"Guardar la nota",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesCommentPostButton":
+    {
+        "hint":"",
+        "label":"Guardar comentario",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesMoreButton":
+    {
+        "hint":"",
+        "label":"Más",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsClassButton":
+    {
+        "hint":"",
+        "label":"Nombre de la clase",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsDropDownButton":
+    {
+        "hint":"Toque este botón para seleccionar la clase",
+        "label":"Desplegable",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsShareAllButton":
+    {
+        "hint":"",
+        "label":"Compartir todo %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsReceiveAllButton":
+    {
+        "hint":"",
+        "label":"Recibir todos %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsShareButton":
+    {
+        "hint":"",
+        "label":"Compartir nota %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsReceiveButton":
+    {
+        "hint":"",
+        "label":"Recibir nottic %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsCancelButton":
+    {
+        "hint":"",
+        "label":"Cancelar",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsDoneButton":
+    {
+        "hint":"",
+        "label":"Hecho",
+        "isAccessiblityEnabled":true
+    },
+    "BackToBookShelfButton": {
+        "hint":"Toca dos veces para volver a la estantería",
+        "label":"Volver a la estantería",
+        "isAccessiblityEnabled":true
+    },
+    "UserProfileButton": {
+        "hint":"Toca dos veces para navegar por el perfil de usuario",
+        "label":"Perfil del usuario",
+        "isAccessiblityEnabled":true
+    },
+    "TOCButton": {
+        "hint":"Toca dos veces para la opción de tabla de contenido",
+        "label":"Tabla de contenidos",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataButton": {
+        "hint":"Toca dos veces para ver la opción de mis datos",
+        "label":"Mis datos",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolButton": {
+        "hint":"Toca dos veces para abrir la herramienta de lápiz",
+        "label":"Lapicera",
+        "isAccessiblityEnabled":true
+    },
+    "StickyNoteButton": {
+        "hint":"Presiona dos veces para agregar una nota adhesiva",
+        "label":"Nota adhesiva",
+        "isAccessiblityEnabled":true
+    },
+    "MoreOptionButton": {
+        "hint":"Toca dos veces para abrir más opciones",
+        "label":"Más opción",
+        "isAccessiblityEnabled":true
+    },
+    "SubmitButton": {
+        "hint":"Toca dos veces para enviar",
+        "label":"Entregar",
+        "isAccessiblityEnabled":true
+    },
+    "StudentSubmitButton": {
+        "hint":"Toca dos veces para que el alumno envíe",
+        "label":"Enviar estudiante",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherReviewButton": {
+        "hint":"Toca dos veces para abrir la reseña del profesor",
+        "label":"Revisión del profesor",
+        "isAccessiblityEnabled":true
+    },
+    "AddTextButton": {
+        "hint":"Toca dos veces para agregar texto",
+        "label":"Anotación de texto",
+        "isAccessiblityEnabled":true
+    },
+    "ProtractorButton": {
+        "hint":"Toca dos veces para abrir el transportador",
+        "label":"Transportador",
+        "isAccessiblityEnabled":true
+    },
+    "ClearButton": {
+        "hint":"Toca dos veces para obtener la autorización",
+        "label":"Limpiar todo",
+        "isAccessiblityEnabled":true
+    },
+    "SearchButton": {
+        "hint":"Toca dos veces para abrir la búsqueda",
+        "label":"Búsqueda",
+        "isAccessiblityEnabled":true
+    },
+    "FontSettingButton": {
+        "hint":"Toca dos veces para abrir la configuración de fuente",
+        "label":"Configuración de fuente",
+        "isAccessiblityEnabled":true
+    },
+    "SoundButton": {
+        "hint":"Double tap to open Audio Sync",
+        "label":"Sound",
+        "isAccessiblityEnabled":true
+    },
+    "ThumbnailButton": {
+        "hint":"Toca dos veces para abrir las miniaturas",
+        "label":"Miniatura",
+        "isAccessiblityEnabled":true
+    },
+    "PageNavigationButton": {
+        "hint":"Toca dos veces para abrir las opciones de navegación de la página",
+        "label":"Navegación de página",
+        "isAccessiblityEnabled":true
+    },
+    "DragSelectionButton": {
+        "hint":"Toca dos veces para habilitar el modo de selección de arrastre",
+        "label":"Arrastrar cuadro de selección",
+        "isAccessiblityEnabled":true
+    },
+    "GenerateReportButton": {
+        "hint":"Toca dos veces para abrir la ventana emergente de generación de informes",
+        "label":"Generar informe",
+        "isAccessiblityEnabled":true
+    },
+    "NextStudentButton": {
+        "hint":"Toca dos veces para navegar al siguiente alumno disponible",
+        "label":"Próxima estudiante",
+        "isAccessiblityEnabled":true
+    },
+    "PreviousStudentButton": {
+        "hint":"Toca dos veces para navegar al alumno disponible anterior",
+        "label":"Alumna anterior",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolPenButton": {
+        "hint":"Toca dos veces para abrir la opción de color del lápiz",
+        "label":"PenTool Pen",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolCloseButton": {
+        "hint":"Toca dos veces para cerrar la pentool",
+        "label":"Cerrar PenTool",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolSelectColorButton": {
+        "hint":"Toca dos veces para seleccionar el color",
+        "label":"%@ Color de la pluma",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolSelectThicknessButton": {
+        "hint":"Toca dos veces para seleccionar el grosor",
+        "label":"%@ Espesor de la pluma",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolUndoButton": {
+        "hint":"",
+        "label":"%@ Deshacer",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolEraserButton": {
+        "hint":"",
+        "label":"%@ Borrador",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolDeleteButton": {
+        "hint":"",
+        "label":"%@ Borrar",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolColorButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolThicknessSlider": {
+        "hint":"",
+        "label":"Espesor de la pluma",
+        "isAccessiblityEnabled":true
+    },
+    "SearchTF": {
+        "hint":"Ingresar texto de búsqueda",
+        "label":"Ingresar texto de búsqueda",
+        "isAccessiblityEnabled":true
+    },
+    "SearchCancelButton": {
+        "hint":"Toca dos veces para cancelar la búsqueda",
+        "label":"Cancelar búsqueda",
+        "isAccessiblityEnabled":true
+    },
+    "OpenSearchResultButton": {
+        "hint":"Toca dos veces para abrir el resultado de la búsqueda",
+        "label":"Abrir resultados de búsqueda",
+        "isAccessiblityEnabled":true
+    },
+    "CloseSearchResultButton": {
+        "hint":"Toca dos veces para cerrar el resultado de la búsqueda",
+        "label":"Cerrar resultados de búsqueda",
+        "isAccessiblityEnabled":true
+    },
+    "NextSearchButton": {
+        "hint":"",
+        "label":"Próximo",
+        "isAccessiblityEnabled":true
+    },
+    "PreviousSearchButton": {
+        "hint":"",
+        "label":"Anterior",
+        "isAccessiblityEnabled":true
+    },
+    "SearchIcon": {
+        "hint":"",
+        "label":"Icono de búsqueda",
+        "isAccessiblityEnabled":true
+    },
+    "TOCContentButton": {
+        "hint":"",
+        "label":"Contenido",
+        "isAccessiblityEnabled":true
+    },
+    "TOCBookMarkButton": {
+        "hint":"",
+        "label":"BookMarks",
+        "isAccessiblityEnabled":true
+    },
+    "TOCResourcesButton": {
+        "hint":"",
+        "label":"Recursos",
+        "isAccessiblityEnabled":true
+    },
+    "TOCStandardButton": {
+        "hint":"",
+        "label":"Estándares",
+        "isAccessiblityEnabled":true
+    },
+    "TOCELPSButton": {
+        "hint":"",
+        "label":"ELPS",
+        "isAccessiblityEnabled":true
+    },
+    "TOCTEKSButton": {
+        "hint":"",
+        "label":"TEKS",
+        "isAccessiblityEnabled":true
+    },
+    "TOCInternalResourcesButton": {
+        "hint":"",
+        "label":"Recursos internos",
+        "isAccessiblityEnabled":true
+    },
+    "TOCExternalResourcesButton": {
+        "hint":"",
+        "label":"Recursos externos",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderMarkupButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderNoteOnPage": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightsButton": {
+        "hint":"",
+        "label":"Destacar",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightsCount": {
+        "hint":"",
+        "label":"%@ Destacar",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotesButton": {
+        "hint":"",
+        "label":"Notas",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotesCount": {
+        "hint":"",
+        "label":"%@ Notas",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterButton": {
+        "hint":"",
+        "label":"Filtros",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataShareSettingButton": {
+        "hint":"",
+        "label":"Compartir configuraciones",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotificationButton": {
+        "hint":"",
+        "label":"Notificaciones",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataSelectedFilterDropDownButton": {
+        "hint":"",
+        "label":"Desplegable abierto",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterDropDownButton": {
+        "hint":"",
+        "label":"Cerrar desplegable",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterHighLightButton": {
+        "hint":"",
+        "label":"Color de luz %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterNotesButton": {
+        "hint":"",
+        "label":"Color de la nota %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterContextualNotesButton": {
+        "hint":"",
+        "label":"Color de la nota contextual %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterShareButton": {
+        "hint":"",
+        "label":"Compartido",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterOtherTextButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsFontName": {
+        "hint":"",
+        "label":"Nombre de la fuente selector",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsFontSizeSlider": {
+        "hint":"Arrastre el deslizador hacia la izquierda para disminuir el tamaño de la fuente o hacia la derecha para aumentar el tamaño de la fuente",
+        "label":"Slider de tamaño de fuente",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsAlignment": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsLineSpacing": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsMargin": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsScrollMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataStickyNoteIcon": {
+        "hint":"",
+        "label":"Icono de nota adhesiva",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataContextualNoteIcon": {
+        "hint":"",
+        "label":"Icono de nota contextual",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightIcon": {
+        "hint":"",
+        "label":"Resaltar icono",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailCollectionCellChapterTitle": {
+        "hint":"",
+        "label":"Capítulo Título %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailCollectionCellPage": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailPrevNextPageButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailSearchTF": {
+        "hint":"Ingrese el número de página para buscar",
+        "label":"Página de búsqueda",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailTotalPage": {
+        "hint":"",
+        "label":"fuera de %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailSlider": {
+        "hint":"",
+        "label":"Control deslizante en miniatura",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSleepButton": {
+        "hint":"Toca dos veces para establecer la hora de dormir",
+        "label":"Dormir",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNextButton": {
+        "hint":"",
+        "label":"Próximo",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPreviousButton": {
+        "hint":"",
+        "label":"Previo",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPauseButton": {
+        "hint":"",
+        "label":"Pausa",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPlayButton": {
+        "hint":"",
+        "label":"Tocar",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkButton": {
+        "hint":"Toca dos veces para marcar la página como favorita",
+        "label":"Marcador",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNarrationSpeedButton": {
+        "hint":"Toca dos veces para seleccionar",
+        "label":"Controlador de velocidad",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNextChapterButton": {
+        "hint":"",
+        "label":"Ir al capítulo siguiente",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPreviousChapterButton": {
+        "hint":"",
+        "label":"Ir al capítulo anterior",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBFullScreenButton": {
+        "hint":"",
+        "label":"Pantalla completa",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBForwardButton": {
+        "hint":"",
+        "label":"15 segundos adelante",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBRewindButton": {
+        "hint":"",
+        "label":"15 segundos hacia atrás",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSubtitleEnabledButton": {
+        "hint":"toque dos veces para deshabilitar",
+        "label":"selección cc",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSubtitleDisabledButton": {
+        "hint":"toque dos veces para habilitar",
+        "label":"selección cc",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMuteEnabledButton": {
+        "hint":"doble toque para silenciar",
+        "label":"Mudo",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMuteDisabledButton": {
+        "hint":"doble toque para audible",
+        "label":"Mudo",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMoreOptionButton": {
+        "hint":"",
+        "label":"Más opción",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterTabButton": {
+        "hint":"Toca dos veces para ir a la lista de capítulos",
+        "label":"Pestaña de capítulo",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkTabButton": {
+        "hint":"Toca dos veces para ir a la lista de marcadores",
+        "label":"Pestaña de marcador",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBTranScriptTabButton": {
+        "hint":"Toca dos veces para ir a la lista de transcripciones",
+        "label":"Pestaña de transcripción",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkDeleteButton": {
+        "hint":"",
+        "label":"Borrar",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterDDButton": {
+        "hint":"",
+        "label":"Desplegable",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupCloseButton": {
+        "hint":"",
+        "label":"Cerrar",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioPlayPauseButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioTimeRemainingLabel": {
+        "hint":"",
+        "label":"Tiempo restante, %@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioCurrentTimeLabel": {
+        "hint":"",
+        "label":"Tiempo transcurrido, %@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioDragButton": {
+        "hint":"",
+        "label":"Arrastrar",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupHTMLZoomInButton": {
+        "hint":"",
+        "label":"Acercarse",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupHTMLZoomOutButton": {
+        "hint":"",
+        "label":"Disminuir el zoom",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupDocumentPrintButton": {
+        "hint":"",
+        "label":"Imprimir",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedDecreaseButton": {
+        "hint":"",
+        "label":"Disminución de la velocidad",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedIncreaseButton": {
+        "hint":"",
+        "label":"Aumento de velocidad",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedRateLabel": {
+        "hint":"",
+        "label":"La velocidad de velocidad es %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFIBTF": {
+        "hint":"Ingrese el texto de FIB aquí",
+        "label":"MENTIRA",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupImageSlideShow": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "CloseButton": {
+        "hint":"",
+        "label":"Cerrar ClassList",
+        "isAccessiblityEnabled":true
+    },
+    "StudentListBackButton": {
+        "hint":"Toca dos veces para cerrar la lista de estudiantes",
+        "label":"Atrás",
+        "isAccessiblityEnabled":true
+    },
+    "ChangeClassButton": {
+        "hint":"",
+        "label":"Cambio de clase",
+        "isAccessiblityEnabled":true
+    },
+    "AnnotationSwitchOnStatus": {
+        "hint":"",
+        "label":"Anotación activada",
+        "isAccessiblityEnabled":true
+    },
+    "AnnotationSwitchOffStatus": {
+        "hint":"",
+        "label":"Anotación desactivada",
+        "isAccessiblityEnabled":true
+    },
+    "CorrectReviewButton": {
+        "hint":"",
+        "label":"Revisión correcta",
+        "isAccessiblityEnabled":true
+    },
+    "InCorrectReviewButton": {
+        "hint":"",
+        "label":"Revisión incorrecta",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherCommentButton": {
+        "hint":"Presiona dos veces para agregar un comentario",
+        "label":"Comentario del profesor",
+        "isAccessiblityEnabled":true
+    },
+    "InstantFeedbackButton": {
+        "hint":"Toca dos veces para mostrar la respuesta correcta",
+        "label":"Retroalimentacion instantanea",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherCommentNote": {
+        "hint":"",
+        "label":"Nota de comentario del maestro",
+        "isAccessiblityEnabled":true
+    },
+    "GenerateReportBack": {
+        "hint":"",
+        "label":"Generar informe Atrás",
+        "isAccessiblityEnabled":true
+    },
+    "TOCCellDropDownButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReadAloudButton": {
+        "hint":"",
+        "label":"Leer en voz alta",
+        "isAccessiblityEnabled":true
+    },
+    "ReadAloudMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataDragUpButton": {
+        "hint":"",
+        "label":"Arrastre hacia arriba",
+        "isAccessiblityEnabled":true
+    },
+    "DismissReaderFontSetting": {
+        "hint":"",
+        "label":"Descartar ventana emergente",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAlignment": {
+        "hint":"",
+        "label":"Alineación",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationTextColor": {
+        "hint":"",
+        "label":"Color de texto",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAddText": {
+        "hint":"",
+        "label":"Añadir texto",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationDelete": {
+        "hint":"",
+        "label":"Borrar",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationSave": {
+        "hint":"",
+        "label":"Ahorrar",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationKeyboard": {
+        "hint":"",
+        "label":"Teclado",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAlignmentAction": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationPalleteColor": {
+        "hint":"",
+        "label":"Color %@",
+        "isAccessiblityEnabled":true
+    },
+    "Immersive_Reader": {
+        "hint":"Botón Lector Inmersivo",
+        "label":"Botón Lector Inmersivo",
+        "isAccessiblityEnabled":true
+    },
+}

@@ -1,0 +1,834 @@
+{
+    "ReaderScreenBookmarkTF":
+    {
+        "hint":"أدخل نص الإشارة المرجعية هنا",
+        "label":"المرجعية",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderAddBookmarkButton":
+    {
+        "hint":"اضغط على هذا الزر لإضافة إشارة مرجعية",
+        "label":"اضافة للمفضلة",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderUpdateBookmarkButton":
+    {
+        "hint":"اضغط على هذا الزر لتحديث المرجعية",
+        "label":"تحديث المرجعية.",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpColor": {
+        "hint":"",
+        "label":"٪@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpTextButton":
+    {
+        "hint":"اضغط على هذا الزر لإضافة ملاحظة سياقية",
+        "label":"ملاحظة سياقية",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpSearchButton":
+    {
+        "hint":"اضغط على هذا الزر للبحث في أي نص",
+        "label":"يبحث",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpDeleteButton":
+    {
+        "hint":"اضغط على هذا الزر لحذف تسليط الضوء",
+        "label":"حذف",
+        "isAccessiblityEnabled":true
+    },
+    "BackButton":
+    {
+        "hint":"",
+        "label":"عودة",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesDeleteButton":
+    {
+        "hint":"",
+        "label":"حذف ملاحظة",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesShareButton":
+    {
+        "hint":"",
+        "label":"شارك ملاحظة",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesSelectedTextTextView":
+    {
+        "hint":"",
+        "label":"نص محدد",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesNoteTextView":
+    {
+        "hint":"",
+        "label":"ملاحظة النص",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesPostButton":
+    {
+        "hint":"",
+        "label":"حفظ ملاحظة",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesCommentPostButton":
+    {
+        "hint":"",
+        "label":"حفظ تعليق",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesMoreButton":
+    {
+        "hint":"",
+        "label":"أكثر",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsClassButton":
+    {
+        "hint":"",
+        "label":"اسم الفصل",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsDropDownButton":
+    {
+        "hint":"اضغط على هذا الزر لتحديد الفصل",
+        "label":"اسقاط",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsShareAllButton":
+    {
+        "hint":"",
+        "label":"%@ مشاركة الكل",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsReceiveAllButton":
+    {
+        "hint":"",
+        "label":"%@ تلقي الكل",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsShareButton":
+    {
+        "hint":"",
+        "label":"شارك ملاحظة ٪@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsReceiveButton":
+    {
+        "hint":"",
+        "label":"تلقي ملاحظة ٪@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsCancelButton":
+    {
+        "hint":"",
+        "label":"يلغي",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsDoneButton":
+    {
+        "hint":"",
+        "label":"فعله",
+        "isAccessiblityEnabled":true
+    },
+    "BackToBookShelfButton": {
+        "hint":"انقر نقرًا مزدوجًا للعودة إلى رف الكتب",
+        "label":"العودة إلى Bookshelf",
+        "isAccessiblityEnabled":true
+    },
+    "UserProfileButton": {
+        "hint":"انقر نقرًا مزدوجًا للتنقل في ملف تعريف المستخدم",
+        "label":"ملف تعريفي للمستخدم",
+        "isAccessiblityEnabled":true
+    },
+    "TOCButton": {
+        "hint":"انقر نقرًا مزدوجًا للحصول على خيار جدول المحتويات",
+        "label":"قائمة المحتويات",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataButton": {
+        "hint":"انقر نقرًا مزدوجًا للحصول على خيار بياناتي",
+        "label":"بياناتي",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolButton": {
+        "hint":"انقر نقرًا مزدوجًا لفتح أداة القلم",
+        "label":"أداة القلم",
+        "isAccessiblityEnabled":true
+    },
+    "StickyNoteButton": {
+        "hint":"انقر نقرًا مزدوجًا لإضافة ملاحظة لاصقة",
+        "label":"ملاحظة خفيفة",
+        "isAccessiblityEnabled":true
+    },
+    "MoreOptionButton": {
+        "hint":"انقر نقرًا مزدوجًا لفتح المزيد من الخيارات",
+        "label":"المزيد من الخيارات",
+        "isAccessiblityEnabled":true
+    },
+    "SubmitButton": {
+        "hint":"انقر نقرًا مزدوجًا للإرسال",
+        "label":"يقدم",
+        "isAccessiblityEnabled":true
+    },
+    "StudentSubmitButton": {
+        "hint":"انقر نقرًا مزدوجًا لإرسال الطالب",
+        "label":"إرسال الطالب",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherReviewButton": {
+        "hint":"انقر نقرًا مزدوجًا لفتح مراجعة المعلم",
+        "label":"مراجعة المعلم",
+        "isAccessiblityEnabled":true
+    },
+    "AddTextButton": {
+        "hint":"انقر نقرًا مزدوجًا لإضافة نص",
+        "label":"تعليق توضيحي نصي",
+        "isAccessiblityEnabled":true
+    },
+    "ProtractorButton": {
+        "hint":"انقر نقرًا مزدوجًا لفتح المنقلة",
+        "label":"منقلة",
+        "isAccessiblityEnabled":true
+    },
+    "ClearButton": {
+        "hint":"انقر نقرًا مزدوجًا للتخليص",
+        "label":"امسح الكل",
+        "isAccessiblityEnabled":true
+    },
+    "SearchButton": {
+        "hint":"انقر نقرًا مزدوجًا لفتح البحث",
+        "label":"بحث",
+        "isAccessiblityEnabled":true
+    },
+    "FontSettingButton": {
+        "hint":"انقر نقرًا مزدوجًا لفتح إعدادات الخط",
+        "label":"إعداد الخط",
+        "isAccessiblityEnabled":true
+    },
+    "SoundButton": {
+        "hint":"Double tap to open Audio Sync",
+        "label":"Sound",
+        "isAccessiblityEnabled":true
+    },
+    "ThumbnailButton": {
+        "hint":"انقر نقرًا مزدوجًا لفتح الصور المصغرة",
+        "label":"ظفري",
+        "isAccessiblityEnabled":true
+    },
+    "SearchTF": {
+        "hint":"أدخل نص البحث",
+        "label":"أدخل نص البحث",
+        "isAccessiblityEnabled":true
+    },
+    "PageNavigationButton": {
+        "hint":"انقر نقرًا مزدوجًا لفتح خيارات التنقل في الصفحة",
+        "label":"التنقل في الصفحة",
+        "isAccessiblityEnabled":true
+    },
+    "DragSelectionButton": {
+        "hint":"انقر نقرًا مزدوجًا لتمكين وضع تحديد السحب",
+        "label":"اسحب مربع التحديد",
+        "isAccessiblityEnabled":true
+    },
+    "GenerateReportButton": {
+        "hint":"انقر نقرًا مزدوجًا لفتح نافذة إنشاء التقرير المنبثقة",
+        "label":"انشاء تقرير",
+        "isAccessiblityEnabled":true
+    },
+    "NextStudentButton": {
+        "hint":"انقر نقرًا مزدوجًا للانتقال إلى الطالب المتاح التالي",
+        "label":"الطالب التالي",
+        "isAccessiblityEnabled":true
+    },
+    "PreviousStudentButton": {
+        "hint":"انقر نقرًا مزدوجًا للانتقال إلى الطالب المتاح السابق",
+        "label":"الطالب السابق",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolPenButton": {
+        "hint":"انقر نقرًا مزدوجًا لفتح خيار لون القلم",
+        "label":"قلم PenTool",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolCloseButton": {
+        "hint":"انقر نقرًا مزدوجًا لإغلاق أداة pentool",
+        "label":"إغلاق PenTool",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolSelectColorButton": {
+        "hint":"انقر نقرًا مزدوجًا لتحديد اللون",
+        "label":"%@ لون القلم",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolSelectThicknessButton": {
+        "hint":"انقر نقرًا مزدوجًا لتحديد السُمك",
+        "label":"%@ سمك القلم",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolUndoButton": {
+        "hint":"",
+        "label":"%@ الغاء التحميل",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolEraserButton": {
+        "hint":"",
+        "label":"%@ ممحاة",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolDeleteButton": {
+        "hint":"",
+        "label":"%@ حذف",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolColorButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolThicknessSlider": {
+        "hint":"",
+        "label":"سمك القلم",
+        "isAccessiblityEnabled":true
+    },
+    "SearchCancelButton": {
+        "hint":"انقر نقرًا مزدوجًا لإلغاء البحث",
+        "label":"إلغاء البحث",
+        "isAccessiblityEnabled":true
+    },
+    "OpenSearchResultButton": {
+        "hint":"انقر نقرًا مزدوجًا لفتح نتيجة البحث",
+        "label":"فتح نتائج البحث",
+        "isAccessiblityEnabled":true
+    },
+    "CloseSearchResultButton": {
+        "hint":"انقر نقرًا مزدوجًا لإغلاق نتيجة البحث",
+        "label":"إغلاق نتائج البحث",
+        "isAccessiblityEnabled":true
+    },
+    "NextSearchButton": {
+        "hint":"",
+        "label":"التالي",
+        "isAccessiblityEnabled":true
+    },
+    "PreviousSearchButton": {
+        "hint":"",
+        "label":"سابق",
+        "isAccessiblityEnabled":true
+    },
+    "SearchIcon": {
+        "hint":"",
+        "label":"رمز البحث",
+        "isAccessiblityEnabled":true
+    },
+    "TOCContentButton": {
+        "hint":"",
+        "label":"محتويات",
+        "isAccessiblityEnabled":true
+    },
+    "TOCBookMarkButton": {
+        "hint":"",
+        "label":"إشارات مرجعية",
+        "isAccessiblityEnabled":true
+    },
+    "TOCResourcesButton": {
+        "hint":"",
+        "label":"موارد",
+        "isAccessiblityEnabled":true
+    },
+    "TOCStandardButton": {
+        "hint":"",
+        "label":"المعايير",
+        "isAccessiblityEnabled":true
+    },
+    "TOCELPSButton": {
+        "hint":"",
+        "label":"ELPS",
+        "isAccessiblityEnabled":true
+    },
+    "TOCTEKSButton": {
+        "hint":"",
+        "label":"TEKS",
+        "isAccessiblityEnabled":true
+    },
+    "TOCInternalResourcesButton": {
+        "hint":"",
+        "label":"الموارد الداخلية",
+        "isAccessiblityEnabled":true
+    },
+    "TOCExternalResourcesButton": {
+        "hint":"",
+        "label":"موارد خارجية",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderMarkupButton": {
+        "hint":"",
+        "label":"٪@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderNoteOnPage": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightsButton": {
+        "hint":"",
+        "label":"يسلط الضوء",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightsCount": {
+        "hint":"",
+        "label":"%@ يسلط الضوء",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotesButton": {
+        "hint":"",
+        "label":"تلاحظ",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotesCount": {
+        "hint":"",
+        "label":"%@ تلاحظ",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterButton": {
+        "hint":"",
+        "label":"المرشحات",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataShareSettingButton": {
+        "hint":"",
+        "label":"إعدادات المشاركة",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotificationButton": {
+        "hint":"",
+        "label":"إشعارات",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataSelectedFilterDropDownButton": {
+        "hint":"",
+        "label":"القائمة المنسدلة فتح",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterDropDownButton": {
+        "hint":"",
+        "label":"إغلاق القائمة المنسدلة",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterHighLightButton": {
+        "hint":"",
+        "label":"لون هايلايت %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterNotesButton": {
+        "hint":"",
+        "label":"لون الملاحظة %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterContextualNotesButton": {
+        "hint":"",
+        "label":"لون الملاحظة السياقية %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterShareButton": {
+        "hint":"",
+        "label":"مشترك",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterOtherTextButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsFontName": {
+        "hint":"",
+        "label":"منتقي اسم الخط",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsFontSizeSlider": {
+        "hint":"اسحب شريط التمرير إلى اليسار لتقليل حجم الخط أو الحق في زيادة حجم الخط",
+        "label":"شريط التمرير حجم الخط",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsAlignment": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsLineSpacing": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsMargin": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsScrollMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataStickyNoteIcon": {
+        "hint":"",
+        "label":"رمز الملاحظة اللاصقة",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataContextualNoteIcon": {
+        "hint":"",
+        "label":"رمز الملاحظة السياقية",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightIcon": {
+        "hint":"",
+        "label":"تمييز الرمز",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailCollectionCellChapterTitle": {
+        "hint":"",
+        "label":"الفصل العنوان ٪@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailCollectionCellPage": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailPrevNextPageButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailSearchTF": {
+        "hint":"أدخل رقم الصفحة للبحث",
+        "label":"صفحة البحث",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailTotalPage": {
+        "hint":"",
+        "label":"بعيدا عن المكان ٪@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailSlider": {
+        "hint":"",
+        "label":"منزلق الصورة المصغرة",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSleepButton": {
+        "hint":"انقر نقرًا مزدوجًا لضبط وقت النوم",
+        "label":"نايم",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNextButton": {
+        "hint":"",
+        "label":"التالي",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPreviousButton": {
+        "hint":"",
+        "label":"سابق",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPauseButton": {
+        "hint":"",
+        "label":"وقفة",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPlayButton": {
+        "hint":"",
+        "label":"لعب",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkButton": {
+        "hint":"انقر نقرًا مزدوجًا لوضع إشارة مرجعية على الصفحة",
+        "label":"المرجعية",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNarrationSpeedButton": {
+        "hint":"انقر نقرًا مزدوجًا للتحديد",
+        "label":"تحكم السرعة",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNextChapterButton": {
+        "hint":"",
+        "label":"انتقل إلى الفصل التالي",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPreviousChapterButton": {
+        "hint":"",
+        "label":"انتقل إلى الفصل السابق",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBFullScreenButton": {
+        "hint":"",
+        "label":"كامل الشاشة",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBForwardButton": {
+        "hint":"",
+        "label":"15 ثانية للأمام",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBRewindButton": {
+        "hint":"",
+        "label":"15 ثانية للخلف",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSubtitleEnabledButton": {
+        "hint":"انقر نقرًا مزدوجًا للتعطيل",
+        "label":"اختيار سم مكعب",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSubtitleDisabledButton": {
+        "hint":"انقر نقرًا مزدوجًا للتمكين",
+        "label":"اختيار سم مكعب",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMuteEnabledButton": {
+        "hint":"انقر نقرًا مزدوجًا لكتم الصوت",
+        "label":"صامت",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMuteDisabledButton": {
+        "hint":"انقر نقرًا مزدوجًا على الصوت",
+        "label":"صامت",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMoreOptionButton": {
+        "hint":"",
+        "label":"المزيد من الخيارات",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterTabButton": {
+        "hint":"انقر نقرًا مزدوجًا للذهاب إلى قائمة الفصول",
+        "label":"علامة تبويب الفصل",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkTabButton": {
+        "hint":"انقر نقرًا مزدوجًا للذهاب إلى قائمة الإشارات المرجعية",
+        "label":"علامة التبويب المرجعية",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBTranScriptTabButton": {
+        "hint":"انقر نقرًا مزدوجًا للذهاب إلى قائمة النص",
+        "label":"علامة تبويب النص",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkDeleteButton": {
+        "hint":"",
+        "label":"حذف",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterDDButton": {
+        "hint":"",
+        "label":"اسقاط",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupCloseButton": {
+        "hint":"",
+        "label":"يغلق",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioPlayPauseButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioTimeRemainingLabel": {
+        "hint":"",
+        "label":"الوقت المتبقي، ٪@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioCurrentTimeLabel": {
+        "hint":"",
+        "label":"الوقت المنقضي، ٪@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioDragButton": {
+        "hint":"",
+        "label":"يجر",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupHTMLZoomInButton": {
+        "hint":"",
+        "label":"زاد",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupHTMLZoomOutButton": {
+        "hint":"",
+        "label":"تصغير",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupDocumentPrintButton": {
+        "hint":"",
+        "label":"مطبعة",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedDecreaseButton": {
+        "hint":"",
+        "label":"انخفاض السرعة",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedIncreaseButton": {
+        "hint":"",
+        "label":"زيادة السرعة",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedRateLabel": {
+        "hint":"",
+        "label":"معدل السرعة هو ٪@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFIBTF": {
+        "hint":"أدخل نص FIB هنا",
+        "label":"فيض",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupImageSlideShow": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "CloseButton": {
+        "hint":"",
+        "label":"أغلق ClassList",
+        "isAccessiblityEnabled":true
+    },
+    "StudentListBackButton": {
+        "hint":"انقر نقرًا مزدوجًا لإغلاق قائمة الطلاب",
+        "label":"عودة",
+        "isAccessiblityEnabled":true
+    },
+    "ChangeClassButton": {
+        "hint":"",
+        "label":"تغيير الفصل",
+        "isAccessiblityEnabled":true
+    },
+    "AnnotationSwitchOnStatus": {
+        "hint":"",
+        "label":"تم تشغيل التعليق التوضيحي",
+        "isAccessiblityEnabled":true
+    },
+    "AnnotationSwitchOffStatus": {
+        "hint":"",
+        "label":"تم إيقاف تشغيل التعليق التوضيحي",
+        "isAccessiblityEnabled":true
+    },
+    "CorrectReviewButton": {
+        "hint":"",
+        "label":"المراجعة الصحيحة",
+        "isAccessiblityEnabled":true
+    },
+    "InCorrectReviewButton": {
+        "hint":"",
+        "label":"مراجعة غير صحيحة",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherCommentButton": {
+        "hint":"انقر نقرًا مزدوجًا لإضافة تعليق",
+        "label":"تعليق المعلم",
+        "isAccessiblityEnabled":true
+    },
+    "InstantFeedbackButton": {
+        "hint":"انقر نقرًا مزدوجًا لإظهار الإجابة الصحيحة",
+        "label":"ردود الفعل الفورية",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherCommentNote": {
+        "hint":"",
+        "label":"ملاحظة تعليق المعلم",
+        "isAccessiblityEnabled":true
+    },
+    "GenerateReportBack": {
+        "hint":"",
+        "label":"توليد تقرير مرة أخرى",
+        "isAccessiblityEnabled":true
+    },
+    "TOCCellDropDownButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReadAloudButton": {
+        "hint":"",
+        "label":"اقرأ بصوت عالي",
+        "isAccessiblityEnabled":true
+    },
+    "ReadAloudMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataDragUpButton": {
+        "hint":"",
+        "label":"اسحب لأعلى",
+        "isAccessiblityEnabled":true
+    },
+    "DismissReaderFontSetting": {
+        "hint":"",
+        "label":"تجاهل النافذة المنبثقة",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAlignment": {
+        "hint":"",
+        "label":"انتقام",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationTextColor": {
+        "hint":"",
+        "label":"لون الخط",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAddText": {
+        "hint":"",
+        "label":"أضف نصًا",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationDelete": {
+        "hint":"",
+        "label":"حذف",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationSave": {
+        "hint":"",
+        "label":"يحفظ",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationKeyboard": {
+        "hint":"",
+        "label":"لوحة المفاتيح",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAlignmentAction": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationPalleteColor": {
+        "hint":"",
+        "label":"اللون %@",
+        "isAccessiblityEnabled":true
+    },
+    "Immersive_Reader": {
+        "hint":"زر قارئ الغامرة",
+        "label":"زر قارئ الغامرة",
+        "isAccessiblityEnabled":true
+    },
+}

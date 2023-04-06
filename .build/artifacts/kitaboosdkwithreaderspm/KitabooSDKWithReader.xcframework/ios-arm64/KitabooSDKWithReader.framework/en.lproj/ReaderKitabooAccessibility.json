@@ -1,0 +1,833 @@
+{
+    "ReaderScreenBookmarkTF":
+    {
+        "hint":"Enter your bookmark text here",
+        "label":"Bookmark",
+        "isAccessiblityEnabled":true
+    },
+    "BackToBookShelfButton": {
+        "hint":"Double tap for back to bookshelf",
+        "label":"Back to Bookshelf",
+        "isAccessiblityEnabled":true
+    },
+    "UserProfileButton": {
+        "hint":"Double tap to navigate user profile",
+        "label":"UserProfile",
+        "isAccessiblityEnabled":true
+    },
+    "TOCButton": {
+        "hint":"Double tap for table of contents option",
+        "label":"Table of content",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataButton": {
+        "hint":"Double tap for my data option",
+        "label":"My Data",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolButton": {
+        "hint":"Double tap to open pen tool",
+        "label":"Pen Tool",
+        "isAccessiblityEnabled":true
+    },
+    "StickyNoteButton": {
+        "hint":"Double tap to add sticky note",
+        "label":"Sticky Note",
+        "isAccessiblityEnabled":true
+    },
+    "MoreOptionButton": {
+        "hint":"Double tap to open more option",
+        "label":"More Option",
+        "isAccessiblityEnabled":true
+    },
+    "SubmitButton": {
+        "hint":"Double tap for submit",
+        "label":"Submit",
+        "isAccessiblityEnabled":true
+    },
+    "StudentSubmitButton": {
+        "hint":"Double tap for student submit",
+        "label":"Student Submit",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherReviewButton": {
+        "hint":"Double tap to open teacher review",
+        "label":"Teacher Review",
+        "isAccessiblityEnabled":true
+    },
+    "AddTextButton": {
+        "hint":"Double tap for adding text",
+        "label":"Text Annotation",
+        "isAccessiblityEnabled":true
+    },
+    "ProtractorButton": {
+        "hint":"Double tap to open protractor",
+        "label":"Protractor",
+        "isAccessiblityEnabled":true
+    },
+    "ClearButton": {
+        "hint":"Double tap for clearance",
+        "label":"Clear All",
+        "isAccessiblityEnabled":true
+    },
+    "SearchButton": {
+        "hint":"Double tap to open search",
+        "label":"Search",
+        "isAccessiblityEnabled":true
+    },
+    "FontSettingButton": {
+        "hint":"Double tap to open Font Settings",
+        "label":"Font Setting",
+        "isAccessiblityEnabled":true
+    },
+    "SoundButton": {
+        "hint":"Double tap to open Audio Sync",
+        "label":"Sound",
+        "isAccessiblityEnabled":true
+    },
+    "ThumbnailButton": {
+        "hint":"Double tap to open thumbnails",
+        "label":"Thumbnail",
+        "isAccessiblityEnabled":true
+    },
+    "PageNavigationButton": {
+        "hint":"Double tap to open page navigation options",
+        "label":"Page Navigation",
+        "isAccessiblityEnabled":true
+    },
+    "DragSelectionButton": {
+        "hint":"Double tap to enable drag selection mode",
+        "label":"Drag Selection Box",
+        "isAccessiblityEnabled":true
+    },
+    "GenerateReportButton": {
+        "hint":"Double tap to open generate report popup",
+        "label":"Generate Report",
+        "isAccessiblityEnabled":true
+    },
+    "NextStudentButton": {
+        "hint":"Double tap to navigate to next available student",
+        "label":"Next Student",
+        "isAccessiblityEnabled":true
+    },
+    "PreviousStudentButton": {
+        "hint":"Double tap to navigate to previous available student",
+        "label":"Previous Student",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolPenButton": {
+        "hint":"Double tap to open pen color option",
+        "label":"PenTool Pen",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolCloseButton": {
+        "hint":"Double tap to close pentool",
+        "label":"PenTool Close",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolSelectColorButton": {
+        "hint":"Double tap to select color",
+        "label":"%@ Pen Color",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolSelectThicknessButton": {
+        "hint":"Double tap to select thickness",
+        "label":"%@ Pen Thickness",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolUndoButton": {
+        "hint":"",
+        "label":"%@ Undo",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolEraserButton": {
+        "hint":"",
+        "label":"%@ Eraser",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolDeleteButton": {
+        "hint":"",
+        "label":"%@ Delete",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolColorButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "PenToolThicknessSlider": {
+        "hint":"",
+        "label":"Pen ThickNess",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderAddBookmarkButton":{
+        "hint":"Tap this button to add bookmark",
+        "label":"Add Bookmark",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderUpdateBookmarkButton":
+    {
+        "hint":"Tap this button to update bookmark",
+        "label":"Update Bookmark",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpColor": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpTextButton":
+    {
+        "hint":"Tap this button to add contextual note",
+        "label":"Contextual Note",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpSearchButton":
+    {
+        "hint":"Tap this button to search any text",
+        "label":"Search",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderHighlightPopUpDeleteButton":
+    {
+        "hint":"Tap this button to delete the highlight",
+        "label":"Delete",
+        "isAccessiblityEnabled":true
+    },
+    "BackButton":
+    {
+        "hint":"",
+        "label":"Back",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesDeleteButton":
+    {
+        "hint":"",
+        "label":"Delete Note",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesShareButton":
+    {
+        "hint":"",
+        "label":"Share Note",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesSelectedTextTextView":
+    {
+        "hint":"",
+        "label":"Selected Text",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesNoteTextView":
+    {
+        "hint":"",
+        "label":"Note Text",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesPostButton":
+    {
+        "hint":"",
+        "label":"Save Note",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesCommentPostButton":
+    {
+        "hint":"",
+        "label":"Save Comment",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderStickyNotesMoreButton":
+    {
+        "hint":"",
+        "label":"More",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsClassButton":
+    {
+        "hint":"",
+        "label":"Class Name",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsDropDownButton":
+    {
+        "hint":"Tap this button to select the class",
+        "label":"Drop Down",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsShareAllButton":
+    {
+        "hint":"",
+        "label":"Share All %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsReceiveAllButton":
+    {
+        "hint":"",
+        "label":"Receive All %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsShareButton":
+    {
+        "hint":"",
+        "label":"Share Note %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsReceiveButton":
+    {
+        "hint":"",
+        "label":"Receive Note %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsCancelButton":
+    {
+        "hint":"",
+        "label":"Cancel",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderShareSettingsDoneButton":
+    {
+        "hint":"",
+        "label":"Done",
+        "isAccessiblityEnabled":true
+    },
+    "SearchTF": {
+        "hint":"Enter Search text",
+        "label":"Enter Search text",
+        "isAccessiblityEnabled":true
+    },
+    "SearchCancelButton": {
+        "hint":"Double tap to cancel search",
+        "label":"Cancel Search",
+        "isAccessiblityEnabled":true
+    },
+    "OpenSearchResultButton": {
+        "hint":"Double tap to open search result",
+        "label":"Open Search Results",
+        "isAccessiblityEnabled":true
+    },
+    "CloseSearchResultButton": {
+        "hint":"Double tap to close search result",
+        "label":"Close Search Results",
+        "isAccessiblityEnabled":true
+    },
+    "NextSearchButton": {
+        "hint":"",
+        "label":"Next",
+        "isAccessiblityEnabled":true
+    },
+    "PreviousSearchButton": {
+        "hint":"",
+        "label":"Previous",
+        "isAccessiblityEnabled":true
+    },
+    "SearchIcon": {
+        "hint":"",
+        "label":"Search Icon",
+        "isAccessiblityEnabled":true
+    },
+    "TOCContentButton": {
+        "hint":"",
+        "label":"Contents",
+        "isAccessiblityEnabled":true
+    },
+    "TOCBookMarkButton": {
+        "hint":"",
+        "label":"BookMarks",
+        "isAccessiblityEnabled":true
+    },
+    "TOCResourcesButton": {
+        "hint":"",
+        "label":"Resources",
+        "isAccessiblityEnabled":true
+    },
+    "TOCStandardButton": {
+        "hint":"",
+        "label":"Standards",
+        "isAccessiblityEnabled":true
+    },
+    "TOCELPSButton": {
+        "hint":"",
+        "label":"ELPS",
+        "isAccessiblityEnabled":true
+    },
+    "TOCTEKSButton": {
+        "hint":"",
+        "label":"TEKS",
+        "isAccessiblityEnabled":true
+    },
+    "TOCInternalResourcesButton": {
+        "hint":"",
+        "label":"Internal Resources",
+        "isAccessiblityEnabled":true
+    },
+    "TOCExternalResourcesButton": {
+        "hint":"",
+        "label":"External Resources",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderMarkupButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderNoteOnPage": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightsButton": {
+        "hint":"",
+        "label":"HighLights",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightsCount": {
+        "hint":"",
+        "label":"%@ HighLights",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotesButton": {
+        "hint":"",
+        "label":"Notes",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotesCount": {
+        "hint":"",
+        "label":"%@ Notes",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterButton": {
+        "hint":"",
+        "label":"Filters",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataShareSettingButton": {
+        "hint":"",
+        "label":"Share Settings",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataNotificationButton": {
+        "hint":"",
+        "label":"Notifications",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataSelectedFilterDropDownButton": {
+        "hint":"",
+        "label":"Dropdown Open",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterDropDownButton": {
+        "hint":"",
+        "label":"Dropdown Close",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterHighLightButton": {
+        "hint":"",
+        "label":"HighLight Color %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterNotesButton": {
+        "hint":"",
+        "label":"Note Color %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterContextualNotesButton": {
+        "hint":"",
+        "label":"Contextual Note Color %@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterShareButton": {
+        "hint":"",
+        "label":"Shared",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataFilterOtherTextButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsFontName": {
+        "hint":"",
+        "label":"Font name picker",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsFontSizeSlider": {
+        "hint":"Drag the slider left to decrease the font size or right to increase the font size",
+        "label":"Font size slider",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsAlignment": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsLineSpacing": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsMargin": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFontSettingsScrollMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataStickyNoteIcon": {
+        "hint":"",
+        "label":"Sticky Note Icon",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataContextualNoteIcon": {
+        "hint":"",
+        "label":"Contextual Note Icon",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataHighlightIcon": {
+        "hint":"",
+        "label":"Highlight Icon",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailCollectionCellChapterTitle": {
+        "hint":"",
+        "label":"Chapter Title %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailCollectionCellPage": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailPrevNextPageButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailSearchTF": {
+        "hint":"Enter Page number to search",
+        "label":"Search Page",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailTotalPage": {
+        "hint":"",
+        "label":"out of %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderThumbnailSlider": {
+        "hint":"",
+        "label":"Thumbnail Slider",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSleepButton": {
+        "hint":"Double tap to set sleep time",
+        "label":"Sleep",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNextButton": {
+        "hint":"",
+        "label":"Next",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPreviousButton": {
+        "hint":"",
+        "label":"Previous",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPauseButton": {
+        "hint":"",
+        "label":"Pause",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPlayButton": {
+        "hint":"",
+        "label":"Play",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkButton": {
+        "hint":"Double tap to bookmark the page",
+        "label":"BookMark",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNarrationSpeedButton": {
+        "hint":"Double tap to select",
+        "label":"Speed controller",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBNextChapterButton": {
+        "hint":"",
+        "label":"Go to next chapter",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBPreviousChapterButton": {
+        "hint":"",
+        "label":"Go to previous chapter",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBFullScreenButton": {
+        "hint":"",
+        "label":"Full Screen",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBForwardButton": {
+        "hint":"",
+        "label":"15 seconds forward",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBRewindButton": {
+        "hint":"",
+        "label":"15 seconds backward",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSubtitleEnabledButton": {
+        "hint":"double tap to disable",
+        "label":"cc selection",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBSubtitleDisabledButton": {
+        "hint":"double tap to enable",
+        "label":"cc selection",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMuteEnabledButton": {
+        "hint":"double tap to mute",
+        "label":"Mute",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMuteDisabledButton": {
+        "hint":"double tap to audible",
+        "label":"Mute",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBMoreOptionButton": {
+        "hint":"",
+        "label":"More Option",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterTabButton": {
+        "hint":"Double tap to go to chapter list",
+        "label":"Chapter Tab",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkTabButton": {
+        "hint":"Double tap to go to bookmark list",
+        "label":"BookMark Tab",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBTranScriptTabButton": {
+        "hint":"Double tap to go to transcript list",
+        "label":"Transcript Tab",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBBookMarkDeleteButton": {
+        "hint":"",
+        "label":"Delete",
+        "isAccessiblityEnabled":true
+    },
+    "MediaBChapterDDButton": {
+        "hint":"",
+        "label":"DropDown",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupCloseButton": {
+        "hint":"",
+        "label":"Close",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioPlayPauseButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioTimeRemainingLabel": {
+        "hint":"",
+        "label":"Time Remaining, %@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioCurrentTimeLabel": {
+        "hint":"",
+        "label":"Time Elapsed, %@",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupAudioDragButton": {
+        "hint":"",
+        "label":"Drag",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupHTMLZoomInButton": {
+        "hint":"",
+        "label":"Zoom in",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupHTMLZoomOutButton": {
+        "hint":"",
+        "label":"Zoom out",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupDocumentPrintButton": {
+        "hint":"",
+        "label":"Print",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedDecreaseButton": {
+        "hint":"",
+        "label":"Speed Decrease",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedIncreaseButton": {
+        "hint":"",
+        "label":"Speed Increase",
+        "isAccessiblityEnabled":true
+    },
+    "AudioSyncSpeedRateLabel": {
+        "hint":"",
+        "label":"Speed Rate is %@",
+        "isAccessiblityEnabled":true
+    },
+    "ReaderFIBTF": {
+        "hint":"Enter FIB text here",
+        "label":"FIB",
+        "isAccessiblityEnabled":true
+    },
+    "MarkupImageSlideShow": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "CloseButton": {
+        "hint":"",
+        "label":"Close ClassList",
+        "isAccessiblityEnabled":true
+    },
+    "StudentListBackButton": {
+        "hint":"Double tap to close student list",
+        "label":"Back",
+        "isAccessiblityEnabled":true
+    },
+    "ChangeClassButton": {
+        "hint":"",
+        "label":"Change Class",
+        "isAccessiblityEnabled":true
+    },
+    "AnnotationSwitchOnStatus": {
+        "hint":"",
+        "label":"Annotation Switched On",
+        "isAccessiblityEnabled":true
+    },
+    "AnnotationSwitchOffStatus": {
+        "hint":"",
+        "label":"Annotation Switched Off",
+        "isAccessiblityEnabled":true
+    },
+    "CorrectReviewButton": {
+        "hint":"",
+        "label":"Correct Review",
+        "isAccessiblityEnabled":true
+    },
+    "InCorrectReviewButton": {
+        "hint":"",
+        "label":"Incorrect Review",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherCommentButton": {
+        "hint":"Double tap to add comment",
+        "label":"Teacher Comment",
+        "isAccessiblityEnabled":true
+    },
+    "InstantFeedbackButton": {
+        "hint":"Double tap to show correct answer",
+        "label":"Instant Feedback",
+        "isAccessiblityEnabled":true
+    },
+    "TeacherCommentNote": {
+        "hint":"",
+        "label":"Teacher Comment Note",
+        "isAccessiblityEnabled":true
+    },
+    "GenerateReportBack": {
+        "hint":"",
+        "label":"Generate Report Back",
+        "isAccessiblityEnabled":true
+    },
+    "TOCCellDropDownButton": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "ReadAloudButton": {
+        "hint":"",
+        "label":"Read Aloud",
+        "isAccessiblityEnabled":true
+    },
+    "ReadAloudMode": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "MyDataDragUpButton": {
+        "hint":"",
+        "label":"Drag Up",
+        "isAccessiblityEnabled":true
+    },
+    "DismissReaderFontSetting": {
+        "hint":"",
+        "label":"Dismiss popup",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAlignment": {
+        "hint":"",
+        "label":"Alignment",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationTextColor": {
+        "hint":"",
+        "label":"Text Color",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAddText": {
+        "hint":"",
+        "label":"Add Text",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationDelete": {
+        "hint":"",
+        "label":"Delete",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationSave": {
+        "hint":"",
+        "label":"Save",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationKeyboard": {
+        "hint":"",
+        "label":"Keyboard",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationAlignmentAction": {
+        "hint":"",
+        "label":"%@",
+        "isAccessiblityEnabled":true
+    },
+    "TextAnnotationPalleteColor": {
+        "hint":"",
+        "label":"Color %@",
+        "isAccessiblityEnabled":true
+    },
+    "Immersive_Reader": {
+        "hint":"Immersice Reader Button",
+        "label":"Immersice Reader Button",
+        "isAccessiblityEnabled":true
+    },
+}
